@@ -1,0 +1,12 @@
+#ignore MS VS folders
+Debug/
+Win32/
+.vs/
+
+#ignore MS VS files
+*.vcxproj
+*.vcxproj.*
+*.sln
+
+#ignore extern libs
+*.dll
